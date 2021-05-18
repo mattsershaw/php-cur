@@ -1,0 +1,12 @@
+dl.profile dt {
+clear: left;
+position: relative;
+float: left;
+width: 10em;
+padding: 5px 0px 0px 0px;
+}
+dl.profile dd {
+margin-left: 10em;
+width: 300px;
+padding: 5px 10px 0px 0px;
+}

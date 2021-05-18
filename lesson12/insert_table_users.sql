@@ -1,0 +1,13 @@
+INSERT INTO users () VALUES ();
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;
+INSERT INTO users (id) SELECT 0 FROM users;

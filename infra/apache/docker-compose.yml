@@ -1,0 +1,18 @@
+version: "3.0"
+
+services:
+  app:
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: mzn_apache
+    env_file: ../.env_local
+    volumes:
+      - ../../src:/var/www/html
+    ports:
+      - 8080:80
+networks:
+  default:
+    external:
+      name: mzn_link
